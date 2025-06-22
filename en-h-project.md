@@ -3,7 +3,7 @@
 ориентацию на “ориентированные на инвестиции”
  Каждый  элемент из этого списка должен ссылаться в рандомном порядке на другие элементы которые уже существуют из этого списка 2-3 максимум ссылки (максимум 3)  <a href=”https://sky-finance.org/en/content/”></a>  
 
-Добавлять дофоллоу ссылки на доверенные источники rel="noopener noreferrer" target="_blank".
+Добавлять дофоллоу ссылки на доверенные источники rel="noopener noreferrer" target="_blank" в каждый 3й элемент из этого списка.
 Вот 3 Автора, тебе нужно одного из них добавлять в каждую статью в рандомном порядке - 
 1)<p><strong>Author:</strong> Matti Korhonen, independent financial researcher from Helsinki, specializing in high-risk investment monitoring and cryptocurrency fraud analysis since 2012.</p>
 2)<p><strong>Author:</strong> Jessica Morgan, U.S.-based fintech analyst and former SEC compliance consultant. She writes extensively about digital finance regulation and HYIP risk management.</p>
